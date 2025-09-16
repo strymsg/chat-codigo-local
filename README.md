@@ -4,7 +4,7 @@ Usando un modelo de lenguage extenso (LLM) mediante RAG + prompt engineering, bu
 
 ![rag-codigo-local.jpg](rag-codigo-local.jpg)
 
-- Notebook: [notebooks/p1.ipynb](p1.ipynb) usa ejemplos de terraform (prompt en inglés)
+- Notebook: [notebooks/p1.ipynb](notebooks/p1.ipynb) usa ejemplos de terraform (prompt en inglés)
 
 ## Ejemplos usados
 
